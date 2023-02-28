@@ -1,0 +1,66 @@
+*{
+
+color: white;
+text-transform: capitalize;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.nav{
+    background-color: black;
+    height: 12vh;
+    display: flex;
+    align-items: center;
+}
+.form1{
+    
+}
+.container{
+    margin-top:-3vh;
+    display: flex;
+    height: 100vh;
+    width:100%;
+    background-color: rgb(8, 24, 8);
+}
+.box{
+
+    border: 1px solid white;
+    width: 600vh;
+    height: 100vh;
+    display: inline-block;
+}
+
+.box2{
+    width: 90vh;
+    height: 100vh;
+    display: inline-block;
+}
+.text{
+    padding: 1vh;
+    margin: 1vh;
+}
+.cont2{
+   
+    margin: 12vh;
+    margin-top: -17vh;
+    display: flex;
+    padding: 2vh;
+   
+}
+input{
+    
+    background-color: transparent;
+    height: 3vh;
+    border: none;
+    border-bottom: 1px solid white;
+    margin-top: 2vh;
+}
+.cont{
+    margin: 15vh;
+    display: flex;
+    padding: 2vh;
+   
+}
+.platform{
+    
+    margin-left: 39px;
+}

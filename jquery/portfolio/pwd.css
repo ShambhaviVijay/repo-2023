@@ -1,0 +1,55 @@
+body {
+    color: white;
+    background-image: linear-gradient(to left, rgb(172, 172, 237), pink);
+}
+
+.container {
+
+    height: 50vh;
+    border: 1px solid #ffffff17;
+    background-image: linear-gradient(to right,  rgb(125, 125, 173), pink);
+    width: 65vh;
+    margin: auto;
+}
+
+
+.section1 {
+    margin-top: 20vh;
+    height: 68vh;
+}
+
+
+.nav {
+    margin: -1vh;
+    background-color: black;
+    color: white;
+    height: 10vh;
+    display: flex;
+}
+
+H1 {
+    margin: auto;
+}
+
+.form {
+    margin: 14.5vh;
+}
+
+.text {
+    height: 3vh;
+    padding: 1vh;
+    width: 31.4vh;
+    resize: none;
+}
+button{
+    background-color: rgb(134, 134, 188);
+    border: none;
+    height: 4vh;
+    width: 15vh;
+    border:1px solid  rgba(255, 192, 203, 0.486);
+    color: white;
+    margin: 1vh;
+    
+}
+
+

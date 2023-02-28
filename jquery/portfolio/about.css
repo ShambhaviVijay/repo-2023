@@ -1,0 +1,62 @@
+.section1 {
+    width: 35%;
+    background-color: black;
+    height: 100vh;
+}
+
+.section2 {
+    width: 65%;
+    height: 100vh;
+    color: white;
+    background-color:  rgb(43, 24, 3);
+}
+
+.container {
+    display: flex;
+    height: 90vh;
+}
+
+.foot {
+    background-color: rgb(48, 28, 5);
+    display: flex;
+    padding: 1vh;
+    height: 6vh;
+    text-transform: uppercase;
+    color: white;
+}
+
+.foot ul {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.foot ul li {
+    padding: 2vh;
+    font-size: 0.2vh;
+    text-decoration: none;
+    list-style: none;
+}
+
+.photo{
+    
+    height: 56vh;
+    padding: 7vh;
+    width: 56vh;
+    margin: auto;
+}
+.cont{
+    display: flex;
+    margin: auto;
+    background-color: black;
+}
+.card1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 55%;
+}
+.card{
+    height: 20vh;
+}
